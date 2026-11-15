@@ -3,22 +3,23 @@
 ## Capturas
 
 ### Menú
-![Menú](capturas/menu.png)
+![Menú](menu.png)
 
 ### Registro de productos
-![Registro](capturas/registro.png)
+![Registro](registro.png)
 
 ### Crear variante de producto
-![Crear variante](capturas/crearVariante.png)
+![Crear variante](crearVariante.png)
 
 ### Mostrar catálogo
-![Mostrar catálogo](capturas/mostrarCatalogo.png)
+![Mostrar catálogo](mostrarCatalogo.png)
 
 ### Agregar al carrito
-![Agregar al carrito](capturas/agregarCarrito.png)
+![Agregar al carrito](agregarCarrito.png)
 
 ### Pagar
-![Pagar](capturas/pagar.png)
+![Pagar](pagar.png)
 
 ### Errores controlados
-![Errores](capturas/validaciones.png)
+![Errores](validaciones.png)
+
